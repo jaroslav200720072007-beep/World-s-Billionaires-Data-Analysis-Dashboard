@@ -1,4 +1,4 @@
-# World's Billionaires Data Analysis Dashboard
+# 🌎World's Billionaires Data Analysis Dashboard
 
 ## Project Overview
 This project presents a comprehensive analysis of the world's wealthiest individuals. Using **Excel Advanced Features**, I transformed a raw dataset into an interactive dashboard to uncover trends in wealth distribution, industry dominance, and demographics.
