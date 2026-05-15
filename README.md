@@ -16,8 +16,6 @@ This project presents a comprehensive analysis of the world's wealthiest individ
 
 
 
-> *Note: Upload your dashboard screenshot to the repository and name it `dashboard.png` for the image to appear above.*
-
 ---
 
 ## Detailed Analysis of Key Metrics
